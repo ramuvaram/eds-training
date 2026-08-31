@@ -1,0 +1,4 @@
+mountpoints:
+  /:
+    url: https://content.da.live/ramuvaram/eds-training
+    type: markup
